@@ -10,6 +10,7 @@ This project provides a simulation tool for analysing the outbreak of infectious
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
 - [Usage](#usage)
+- [Model Output](#model-output) 
 - [Plot](#plot)
 - [License](#license)
 - [Author](#Author)
@@ -69,6 +70,24 @@ If both Python 2 and 3 are both installed, it's important to specify Python 3 us
 
 
 ```python3 outbreak_analyser.py ```
+
+
+## Model Output
+
+After running the outbreak_analyzer, you can expect to see the following output in the console:
+
+Outbreak Centre: [7171. 4745.]
+
+Total Population: ~ 73358
+
+Affected Population: ~ 39232
+
+Percentage Affected: 53.48%
+
+
+These values provide information about the outbreak, including the geographical center, total population, affected population, and the percentage of the population affected. 
+
+This information is important for understanding the impact and scope of the simulated outbreak.
 
 
 ## Plot
