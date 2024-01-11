@@ -76,8 +76,7 @@ If both Python 2 and 3 are both installed, it's important to specify Python 3 us
 
 After running the outbreak_analyser, you can expect to see the following output in the console:
 
-
-![model console output](./images/console-output.png)
+<img src="./images/console-output.png" alt="model console output" width="400"/>
 
 
 These values provide information about the outbreak, including the geographical centre, total population, affected population, and the percentage of the population affected. 
