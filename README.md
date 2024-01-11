@@ -74,18 +74,13 @@ If both Python 2 and 3 are both installed, it's important to specify Python 3 us
 
 ## Model Output
 
-After running the outbreak_analyzer, you can expect to see the following output in the console:
-
-Outbreak Centre: [7171. 4745.]
-
-Total Population: ~ 73358
-
-Affected Population: ~ 39232
-
-Percentage Affected: 53.48%
+After running the outbreak_analyser, you can expect to see the following output in the console:
 
 
-These values provide information about the outbreak, including the geographical center, total population, affected population, and the percentage of the population affected. 
+![model console output](./images/console-output.png)
+
+
+These values provide information about the outbreak, including the geographical centre, total population, affected population, and the percentage of the population affected. 
 
 This information is important for understanding the impact and scope of the simulated outbreak.
 
@@ -93,7 +88,7 @@ This information is important for understanding the impact and scope of the simu
 ## Plot
 
 The plot of result will be saved as in the output directory (default name is outbreak_plot.png). 
-![model output visualization](./images/outbreak_plot.png)
+![model visualization](./images/outbreak_plot.png)
 
 
 ## License
