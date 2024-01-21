@@ -1,6 +1,6 @@
 # Outbreak Analyser
 
-This project provides a simulation tool for analysing the outbreak of infectious diseases based on reported cases and a gridded representation of the population.
+This project provides an investigation tool for analysing the outbreak of infectious diseases based on reported cases and a gridded representation of the population.
 
 ## Table of Contents
 
@@ -18,29 +18,29 @@ This project provides a simulation tool for analysing the outbreak of infectious
 
 ## Introduction
 
-The Outbreak Analyser is a Python-based tool designed to simulate and study the dynamics of an infectious disease outbreak within a population. By utilizing reported cases and population data, the tool determines the outbreak center, calculates affected populations, and visualizes the population distribution.
+The Outbreak Analyser is a Python-based tool designed to study the dynamics of an infectious disease outbreak within a population. Using reported cases and population data, the tool determines the outbreak centre, calculates affected populations, and visualizes the population distribution.
 
 ### Problem to Solve
 
 In the context of infectious diseases, understanding the spatial and population dynamics of an outbreak is crucial for effective public health planning. This tool addresses key questions such as:
 
-1. **Outbreak Center:** Where is the center of the outbreak, and what is the impact on the surrounding population?
+1. **Outbreak Center:** Where is the outbreak's centre, and what is the impact on the surrounding population?
 
 2. **Affected Population:** What percentage of the population is affected by the outbreak?
 
-3. **Population Visualization:** How can we visualize the population distribution and the outbreak center?
+3. **Population Visualization:** How can we visualize the population distribution and the outbreak centre?
 
 ### Features
 
 - Analysis of infectious disease outbreaks based on reported case locations and population distribution.
-- Determination of the outbreak center.
+- Determination of the outbreak centre.
 - Calculation of affected population and percentage.
-- Visualization of the population distribution with the outbreak center.
+- Visualization of the population distribution with the outbreak centre.
 
 
 ## Getting Started
 
-To get started with the Outbreak Aanalyser, follow these steps:
+To get started with the Outbreak Analyser, follow these steps:
 
 ### Prerequisites
 
@@ -63,11 +63,11 @@ Navigate to the project directory:
 
 ## Usage
 
-If Python 3 is the only Python version installed on your machine, you can use the python command. For example:
+If Python 3 is the only Python version installed on your machine, you can use the Python command. For example:
 
 ```python outbreak_analyser.py ```
 
-If both Python 2 and 3 are both installed, it's important to specify Python 3 using the python3 command. For example:
+If both Python 2 and 3 are installed, it's important to specify Python 3 using the python3 command. For example:
 
 
 ```python3 outbreak_analyser.py ```
@@ -87,7 +87,7 @@ This information is important for understanding the impact and scope of the simu
 
 ## Plot
 
-The plot of result will be saved as in the output directory (default name is outbreak_plot.png). 
+The plot of the result will be saved in the output directory (default name is outbreak_plot.png). 
 ![model visualization](./images/outbreak_plot.png)
 
 ## Future Extensions
