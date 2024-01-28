@@ -92,15 +92,11 @@ The plot of the result will be saved in the output directory (default name is ou
 
 ## Future Extensions
 
-- **Data Input:** Allow the program to read data from external sources, such as real-world case data.
 - **Customizable Output Formats:** Provide options to export model results in various formats for further analysis and reporting.
-- **Statistical Analysis:** Incorporate statistical analysis tools to provide confidence intervals or uncertainty estimates for the simulation results.
-- **Sensitivity Analysis:** Implement sensitivity analysis to identify the most influential parameters and understand the robustness of the model.
-- **Calibration with Real-world Data:** Calibrate the model parameters using real-world epidemiological data to ensure that the simulation closely aligns with observed patterns of disease spread.
 - **Interactive Visualization:** Create interactive visualization to explore better the dynamics of the outbreak.
-**- Geographical Visualization:** Enhance visualization capabilities to include geographical maps with overlays of disease spread, population density, and other relevant information. 
+- **Geographical Visualization:** Enhance visualization capabilities to include geographical maps with overlays of disease spread, population density, and other relevant information. 
 - **GIS Integration:** Integrate with Geographic Information System (GIS) data to obtain real-world geographical features such as roads, population density, and healthcare facilities.
-- **Intervention Strategies:** Implement different intervention strategies, such as vaccination campaigns, social distancing, or lockdowns, and analyze their impact on the spread of the disease.
+- **Intervention Strategies:** Implement intervention strategies, such as vaccination campaigns, social distancing, or lockdowns, and analyze their impact on the spread of the disease.
 - ...
 
 ## License
